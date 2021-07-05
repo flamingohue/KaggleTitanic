@@ -4,7 +4,7 @@ This is for Kaggle competition: Titanic- Machine learning from Disaster. We mana
 
 During the exploration, we found two interesting variables that can significantly improve the model accuracy but did not see anyone posting yet. During the analysis, we found that adult males with families have a higher tendency to die and children under 12 years old in a family tend to survive.
 
-Variables:
+Variables
 
 The first variable is the adult male in the family size >1.
 the chidren under 12 years old in a family.
