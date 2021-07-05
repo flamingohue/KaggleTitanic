@@ -6,9 +6,9 @@ During the exploration, we found two interesting variables that can significantl
 
 Variables
 
-The first variable is the adult male in the family size >1.
+1. The first variable is the adult male in the family size >1.
 
-the chidren under 12 years old in a family.
+2. The chidren under 12 years old in a family.
 
 
 Please feel free to take a look at the details and let me know if you have any questions or suggestions. :)
